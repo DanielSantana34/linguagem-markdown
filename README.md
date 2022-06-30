@@ -1,2 +1,8 @@
 # linguagem-markdown
-Estudando
+## *Estudando*
+
+**adiciona negrito**
+---
+
+ [] criar caixa
+
